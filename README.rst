@@ -12,3 +12,4 @@ Installation
 
 3) Copy .vimrc file in your home directory
 
+4) Execute BundleInstall inside vim
