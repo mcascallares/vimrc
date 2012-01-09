@@ -8,6 +8,8 @@ set ttyfast " fast terminal connection
 set number " show number of lines
 set tabstop=4
 
+set rtp+=~/.vim/bundle/vundle
+
 colorscheme tir_black
 
 
